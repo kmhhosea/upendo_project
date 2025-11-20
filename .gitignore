@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+KM/
+KH/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+
+# Eclipse, PyCharm, VS Code project files
+.idea/
+.vscode/
+
+# Static + media (optional)
+staticfiles/
+media/
